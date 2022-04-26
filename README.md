@@ -1,5 +1,5 @@
 # Riconoscimento di flussi di mobilità urbana con modelli Gradient Boosting
-## Bachelor degree's thesys work produced by Pietro Tempesti
+## Bachelor degree's thesis work produced by Pietro Tempesti
 
 Objective of this work is the comparison of the results obtained by many ML ensamble models in classification on a dataset regarding the urban mobility of Istanbul.
 
